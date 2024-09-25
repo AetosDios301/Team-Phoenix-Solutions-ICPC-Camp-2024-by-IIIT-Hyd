@@ -1,6 +1,8 @@
-This is the official GitHub repository of Team Phoenix containing the solutions to the contest problems of the 2024 ICPC Camp organized by IIIT Hyderabad.
+This is the official GitHub repository of Team Phoenix, containing our solutions to the contest problems from the 2024 ICPC Camp organized by IIIT Hyderabad.
 
-Team Phoenix consists of three members, freshers from Manipal University of Jaipur, below you can find the name of each member along with links to their respective CodeForces profiles
+<h2><strong>Team Members</strong></h2>
+
+We are three freshers from Manipal University Jaipur
 
 1. <a href="https://codeforces.com/profile/aetosdios_301">Pushpendra</a>
 2. <a href="https://codeforces.com/profile/ab1nv">Abhinav</a>
