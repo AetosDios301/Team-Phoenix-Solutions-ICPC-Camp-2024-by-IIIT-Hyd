@@ -4,6 +4,6 @@ This is the official GitHub repository of Team Phoenix, containing our solutions
 
 We are three freshers from Manipal University Jaipur
 
-1. <a href="https://codeforces.com/profile/aetosdios_301">Pushpendra</a>
-2. <a href="https://codeforces.com/profile/ab1nv">Abhinav</a>
-3. <a href="https://codeforces.com/profile/narutoxexe">Anmol</a>
+1. <a href="https://codeforces.com/profile/aetosdios_301" target="_blank" rel="noopener noreferrer">Pushpendra</a>
+2. <a href="https://codeforces.com/profile/ab1nv" target="_blank" rel="noopener noreferrer">Abhinav</a>
+3. <a href="https://codeforces.com/profile/narutoxexe" target="_blank" rel="noopener noreferrer">Anmol</a>
